@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\presentation_layer\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\presentation_layer\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\presentation_layer\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\presentation_layer\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240915150433_add2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20240915150433_add2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240915145959_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20240915145959_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\dtos\\subjectwithteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\subjectwithteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\dtos\\createsubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\createsubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\dtos\\createteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\createteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\dtos\\classwithstudentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\classwithstudentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\data_access_layer\\models\\teachersubjectclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0455D96E-8AEF-48AB-A3D7-EAF38F5F2488}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\teachersubjectclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\onedrive - nagarro\\desktop\\developer test\\developertest\\presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04040A43-2FEC-4571-80C3-76306780C276}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240914134208_addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Migrations\\20240914134208_addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Data\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:01:17.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:09:53.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\Class.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:19:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240915150433_add2.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240915150433_add2.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240915150433_add2.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240915150433_add2.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240915150433_add2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:04:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwD8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:27:54.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwD8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:28:31.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:52:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:36:59.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\TeacherDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\TeacherDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\TeacherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:38:05.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\Student.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Student.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAMwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:51:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240915145959_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240915145959_add.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240915145959_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240915145959_add.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240915145959_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:00:00.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubjectWithTeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\SubjectWithTeacherDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\SubjectWithTeacherDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\SubjectWithTeacherDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\SubjectWithTeacherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:26:18.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateTeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\CreateTeacherDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\CreateTeacherDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\CreateTeacherDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\CreateTeacherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:36:22.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateSubjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\CreateSubjectDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\CreateSubjectDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\CreateSubjectDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\CreateSubjectDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:39:45.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\SubjectDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\SubjectDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\SubjectDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\SubjectDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:15:10.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClassWithStudentsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\ClassWithStudentsDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\ClassWithStudentsDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\ClassWithStudentsDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\ClassWithStudentsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:25:02.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\Subject.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:54:07.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\CreateStudentDTO.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\CreateStudentDTO.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\DTOs\\CreateStudentDTO.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\CreateStudentDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:13:32.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\Teacher.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:52:43.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherSubjectClass.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\TeacherSubjectClass.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\TeacherSubjectClass.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Models\\TeacherSubjectClass.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\TeacherSubjectClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:29:02.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation_Layer\\appsettings.json",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\appsettings.json",
+              "RelativeToolTip": "Presentation_Layer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T10:43:26.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Presentation_Layer\\Program.cs",
+              "RelativeToolTip": "Presentation_Layer\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:43:28.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240914134208_addd.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240914134208_addd.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240914134208_addd.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Developer Test\\DeveloperTest\\Data_Access_Layer\\Migrations\\20240914134208_addd.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240914134208_addd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:42:08.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

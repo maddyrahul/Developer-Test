@@ -1,0 +1,51 @@
+<!-- <div class="container mt-4">
+    <h2 class="text-center">Class-Wise Student List</h2>
+  
+    <div *ngFor="let classGroup of studentClassWiseList" class="mt-4">
+      <h3 class="text-primary">{{ classGroup.className }}</h3>
+  
+      <div class="row">
+        <div *ngFor="let student of classGroup.students" class="col-md-4">
+          <div class="card mb-4">
+            <div class="card-body text-center">
+            
+              <img *ngIf="student.image" 
+                   [src]="student.image.startsWith('data:') ? student.image : 'data:image/jpeg;base64,' + student.image" 
+                   alt="{{ student.name }}" class="student-img img-thumbnail mb-3" />
+              <h5 class="card-title">{{ student.name }}</h5>
+              <p class="card-text">Roll No: {{ student.classRollNumber }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+   -->
+
+   <div class="container mt-4">
+    <h2 class="text-center">Class-Wise Student List</h2>
+  
+    <!-- Search Bar -->
+    <div class="form-group">
+      <input type="text" class="form-control" placeholder="Search by student name" [(ngModel)]="searchTerm" (input)="onSearch()" />
+    </div>
+  
+    <!-- Student List -->
+    <div *ngFor="let classGroup of filteredStudentClassWiseList" class="mt-4">
+      <h3 class="text-primary">{{ classGroup.className }}</h3>
+  
+      <div class="row">
+        <div *ngFor="let student of classGroup.students" class="col-md-4">
+          <div class="card mb-4">
+            <div class="card-body text-center">
+              <img *ngIf="student.image" [src]="student.image.startsWith('data:') ? student.image : 'data:image/jpeg;base64,' + student.image"
+                   alt="{{ student.name }}" class="student-img img-thumbnail mb-3" />
+              <h5 class="card-title">{{ student.name }}</h5>
+              <p class="card-text">Roll No: {{ student.classRollNumber }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

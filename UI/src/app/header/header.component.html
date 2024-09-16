@@ -1,0 +1,42 @@
+<header class="navbar navbar-expand-md bg-success text-warning py-3 shadow-sm">
+    <div class="container-fluid d-flex justify-content-between align-items-center">
+        <div class="navbar-brand fw-bold fs-3">
+            <span routerLink="/" class="text-warning text-decoration-none">Simple Application</span>
+        </div>
+
+        <button class="navbar-toggler text-warning border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="ms-auto">
+                <ul class="navbar-nav">
+                    <!-- Existing buttons -->
+                    <li class="nav-item">
+                        <button type="button" class="btn btn-outline-warning" routerLink="/">Home</button>
+                    </li>
+                   
+                   
+
+                    <!-- New buttons for the routes -->
+                    <li class="nav-item">
+                        <button type="button" class="btn btn-outline-warning" routerLink="/students">Students List</button>
+                    </li>
+                    <li class="nav-item">
+                        <button type="button" class="btn btn-outline-warning" routerLink="/subject-list">Subject List</button>
+                    </li>
+                    <li class="nav-item">
+                        <button type="button" class="btn btn-outline-warning" routerLink="/students/add">Add Student</button>
+                    </li>
+                    <li class="nav-item">
+                        <button type="button" class="btn btn-outline-warning" routerLink="/teachers/add">Add Teacher</button>
+                    </li>
+                    <li class="nav-item">
+                        <button type="button" class="btn btn-outline-warning" routerLink="/subjects/add">Add Subject</button>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
